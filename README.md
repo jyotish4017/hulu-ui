@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Click to view the Project: https://hulu-ui-five.vercel.app
+
 First, run the development server:
 
 ```bash
